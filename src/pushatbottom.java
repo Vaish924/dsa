@@ -8,7 +8,7 @@ public class pushatbottom {
             return;
         }
         int top=s.pop();
-        pushbottom(data,s);;
+        pushbottom(data,s);
         s.push(top);
     }
     public static void main(String args[])
